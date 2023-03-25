@@ -1,0 +1,14 @@
+{
+  "name": "note-app-backend",
+  "version": "1.0.0",
+  "description": "A simple note app backend application created using javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ara Gamaliel Boanerges",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.2"
+  }
+}
