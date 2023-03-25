@@ -1,10 +1,13 @@
-[
-  {
-    "id": 1,
-    "title": "This is a simple app",
-    "created_at": 1678526521857,
-    "updated_at": 1678526521857,
-    "body": "Lorem ipsum dolor sit amet ...",
-    "note_color": "blue"
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "This is a simple app",
+      "created_at": 1678526521857,
+      "updated_at": 1678526521857,
+      "body": "Lorem ipsum dolor sit amet ...",
+      "note_color": "blue"
+    }
+  ]
   }
-]
+
